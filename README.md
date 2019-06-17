@@ -1,4 +1,4 @@
-# Editorical
+# Editorial
 
 In this repository, please find materials related to the Open Organization Ambassadors' ongoing editorial efforts.
 
