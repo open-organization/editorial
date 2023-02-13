@@ -2,6 +2,11 @@
 
 ## February 2023
 
+February 09, 2023  
+**3 types of leadership for open organizations** (by Len Dimaggio)  
+https://opensource.com/article/23/2/leadership-open-organizations  
+https://red.ht/3X9PiaC
+
 February 06, 2023  
 **What's your community thinking pattern?** (by Ron McFarland)  
 https://opensource.com/article/23/2/community-thinking-pattern  
