@@ -1,5 +1,11 @@
 # Open Organization Project 2023 Article Archive
 
+## March 2023
+
+**How Web3 and a mesh organizational design can turn challenges into opportunities** (by Jen Kelchner)  
+https://opensource.com/article/23/3/web3-mesh-organizational-design-challenges-opportunities  
+https://red.ht/3Z16NMa
+
 ## February 2023
 
 February 09, 2023  
