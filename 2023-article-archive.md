@@ -2,6 +2,12 @@
 
 ## March 2023
 
+March 24, 2023  
+**Open source maps and open data help humanitarian response** (by Heather Leson, Said Turksever, Batuhan Kavlak, Orkut Murat Yılmaz, and Can Unen)  
+https://opensource.com/article/23/3/open-source-open-data-humanitarian-response  
+https://red.ht/3yrkjNs
+
+March 02, 2023  
 **How Web3 and a mesh organizational design can turn challenges into opportunities** (by Jen Kelchner)  
 https://opensource.com/article/23/3/web3-mesh-organizational-design-challenges-opportunities  
 https://red.ht/3Z16NMa
