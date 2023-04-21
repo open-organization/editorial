@@ -1,5 +1,22 @@
 # Open Organization Project 2023 Article Archive
 
+## April 2023
+
+April 21, 2023
+**The future of the sharing business model** (by Ron McFarland)  
+https://opensource.com/article/23/4/future-sharing-business-model  
+https://red.ht/3moXgk2
+
+April 20, 2023
+**Real-world examples of the sharing economy** (by Ron McFarland)  
+https://opensource.com/article/23/4/sharing-economy-examples  
+https://red.ht/43t7Mrc
+
+April 19, 2023
+**The sharing economy and the open organization** (by Ron McFarland)  
+https://opensource.com/article/23/4/sharing-economy-open-organization  
+https://red.ht/3UB6VAG
+
 ## March 2023
 
 March 24, 2023  
