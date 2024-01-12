@@ -13,11 +13,11 @@ https://coachingbuttons.com/2023/12/18/noise
 ## September 2023
 
 September 11, 2023  
-**https://coachingbuttons.com/2023/09/11/sharingexamples** (by Ron McFarland)  
+**Real world examples of a sharing economy** (by Ron McFarland)  
 https://coachingbuttons.com/2023/09/11/sharingexamples  
 
 September 04, 2023  
-**Open organizations and the sharing economy** (by Ron McFarland)
+**Open organizations and the sharing economy** (by Ron McFarland)  
 https://coachingbuttons.com/2023/09/04/sharingeconomy  
 
 ## April 2023
