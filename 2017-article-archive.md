@@ -738,411 +738,244 @@ red.ht/2qo7vWO
 
 ## April 2017
 
-April 27, 2017
-
-**3 essential skills for fostering productive debate in your IT team** (by Rebecca Fernandez)
-
-https://opensource.com/open-organization/17/4/fostering-productive-debate
-
-red.ht/2ozHuUh
+April 27, 2017  
+**3 essential skills for fostering productive debate in your IT team** (by Rebecca Fernandez)  
+https://opensource.com/open-organization/17/4/fostering-productive-debate  
+red.ht/2ozHuUh  
 
 * New today from ambassador @ruhbehka: Fostering productive debate in your IT team red.ht/2ozHuUh #TheOpenOrg
 * Ambassador @ruhbehka explains how to bring passionate, productive debate into your IT team: red.ht/2ozHuUh #TheOpenOrg
 * Passionate debate is the norm in #TheOpenOrg. @ruhbehka explains how to make it productive: red.ht/2ozHuUh #TheOpenOrg
 * Help your team make the connection between productive debates and the better outcomes they drive: red.ht/2ozHuUh #TheOpenOrg
 
-
-
-
-
-April 25, 2017
-
-**How to make branding decisions in an open community** (by Chad Whitacre)
-
-https://opensource.com/open-organization/17/4/how-branding-decisions-open
-
-red.ht/2pdMZoO
+April 25, 2017  
+**How to make branding decisions in an open community** (by Chad Whitacre)  
+https://opensource.com/open-organization/17/4/how-branding-decisions-open  
+red.ht/2pdMZoO  
 
 * New today from ambassador @whit537: "How to make branding decisions in an open community" red.ht/2pdMZoO #TheOpenOrg
 * Docker, Moby, and "inner circling." From ambassador @whit537: red.ht/2pdMZoO #TheOpenOrg
 * Ambassador @whit537 analyzes Docker's recent rebrand to draw critical lessons for open decision-making red.ht/2pdMZoO #TheOpenOrg
 * How to avoid "inner circling" in #TheOpenOrg, from ambassador @whit537: red.ht/2pdMZoO #TheOpenOrg
 
-
-
-
-
-April 25, 2017
-
-**Making open decisions at scale** (by DeLisa Alexander)
-
-https://opensource.com/open-organization/17/4/making-open-inclusive-decisions
-
-red.ht/2pvtwmt
+April 25, 2017  
+**Making open decisions at scale** (by DeLisa Alexander)  
+https://opensource.com/open-organization/17/4/making-open-inclusive-decisions  
+red.ht/2pvtwmt  
 
 * Also new today, from @delisaatredhat: Making open decisions at scale red.ht/2pvtwmt #TheOpenOrg
 * Two compelling case studies from @delisaatredhat demonstrate the benefits of open decision-making: red.ht/2pvtwmt #TheOpenOrg
 * Don't produce a pickle when the team asks you for a banana, says @delisaatredhat: red.ht/2pvtwmt #TheOpenOrg
 * .@delisaatredhat concludes her four-part series on open decision-making with some great case studies: red.ht/2pvtwmt #TheOpenOrg
 
-
-
-
-
-April 20, 2017
-
-**A user's guide to failing faster** (by Gordon Haff)
-
-https://opensource.com/open-organization/17/4/accountability-by-design
-
-red.ht/2pVnYOf
+April 20, 2017  
+**A user's guide to failing faster** (by Gordon Haff)  
+https://opensource.com/open-organization/17/4/accountability-by-design  
+red.ht/2pVnYOf  
 
 * New today from [ghaff](https://source.redhat.com/.profile/ghaff): "A user's guide to failing faster" red.ht/2pVnYOf #TheOpenOrg
 * Open organizations are designed to foster accountability, says [ghaff](https://source.redhat.com/.profile/ghaff) red.ht/2pVnYOf #TheOpenOrg
 * Fail fast. Fail often. Fail well. [ghaff](https://source.redhat.com/.profile/ghaff) red.ht/2pVnYOf #TheOpenOrg
 * On the relationship between failure and accountability, by [ghaff](https://source.redhat.com/.profile/ghaff) red.ht/2pVnYOf #TheOpenOrg
 
-
-
-
-
-April 18, 2017
-
-**What to do when you're feeling underutilized** (by Sam Knuth)
-
-https://opensource.com/open-organization/17/4/feeling-underutilized
-
-red.ht/2pNRiX8
+April 18, 2017  
+**What to do when you're feeling underutilized** (by Sam Knuth)  
+https://opensource.com/open-organization/17/4/feeling-underutilized  
+red.ht/2pNRiX8  
 
 * New today, from @samfw: "What to do when you're feeling underutilized" red.ht/2pNRiX8 #TheOpenOrg
 * Members of your open organization need to feel challenged and stretched, says @samfw: red.ht/2pNRiX8 #TheOpenOrg
 * Feeling underutilized? #TheOpenOrg can help with that: red.ht/2pNRiX8 #TheOpenOrg
 * What does a manager in #TheOpenOrg do when sensing someone is underutilized? red.ht/2pNRiX8 #TheOpenOrg
 
-
-
-
-
-April 13, 2017
-
-**Openness is key to working with Gen Z** (by Jen Kelchner)
-
-https://opensource.com/open-organization/17/4/openness-and-gen-z
-
-red.ht/2pcihMd
+April 13, 2017  
+**Openness is key to working with Gen Z** (by Jen Kelchner)  
+https://opensource.com/open-organization/17/4/openness-and-gen-z  
+red.ht/2pcihMd  
 
 * New today from ambassador @jenkelchner: "Openness is key to working with Gen Z" red.ht/2pcihMd #TheOpenOrg
 * Members of Generation Z operate openly by default. Are you ready to work with them? red.ht/2pcihMd #TheOpenOrg
 * Ambassador @jenkelchner has your guide to working with GenZ, who expect openness by default: red.ht/2pcihMd #TheOpenOrg
 * Could open organizational models by the keys to seeing GenZ excel in the workplace? red.ht/2pcihMd #TheOpenOrg
 
-
-
-
-
-April 11, 2017
-
-**What to do when your open source hobby becomes a project** (by Huiren Woo)
-
-https://opensource.com/open-organization/17/4/open-leadership-softether
-
-red.ht/2oU93HD
+April 11, 2017  
+**What to do when your open source hobby becomes a project** (by Huiren Woo)  
+https://opensource.com/open-organization/17/4/open-leadership-softether  
+red.ht/2oU93HD  
 
 * New today from ambassador @woohuiren: What to do when your open source hobby becomes a project red.ht/2oU93HD #TheOpenOrg
 * Ambassador @woohuiren explains open leadership lessons from the #SoftEther project red.ht/2oU93HD #TheOpenOrg
 * Learning to lead by letting go. @woohuiren explains: red.ht/2oU93HD #TheOpenOrg
 * New community, new worries: When an #opensource project becomes a hobby red.ht/2oU93HD #TheOpenOrg
 
-
-
-
-
-April 7, 2017
-
-**The power of open, inclusive decisions** (by The Open Organization)
-
-https://opensource.com/open-organization/17/4/open-decisions-chat-recap
-
-red.ht/2oQahjU
+April 7, 2017  
+**The power of open, inclusive decisions** (by The Open Organization)  
+https://opensource.com/open-organization/17/4/open-decisions-chat-recap  
+red.ht/2oQahjU  
 
 * Miss the March #OpenOrgChat? Here's your recap: red.ht/2oQahjU #TheOpenOrg
 * Our community discusses the power of open, inclusive decisions: red.ht/2oQahjU #TheOpenOrg#OpenOrgChat
 * What does open and inclusive decision making look like? red.ht/2oQahjU #TheOpenOrg#OpenOrgChat
 
-Created by Bryan Behrenshausen / @OpenOrgChat
-
-April 6, 2017
-
-**What living off the grid taught me about openness** (by Matt Thompson)
-
-https://opensource.com/open-organization/17/4/open-org-at-tera-perma
-
-red.ht/2nNVtl1
+April 6, 2017  
+**What living off the grid taught me about openness** (by Matt Thompson)  
+https://opensource.com/open-organization/17/4/open-org-at-tera-perma  
+red.ht/2nNVtl1  
 
 * New today, from @OpenMatt: "What living off the grid taught me about openness" red.ht/2nNVtl1 #TheOpenOrg
 * Contributor @OpenMatt spent some time off the grid—and brought home lessons about the power of openness red.ht/2nNVtl1 #TheOpenOrg
 * Terra Perma is "an ideal accidental case study in open collaboration," says @OpenMatt: red.ht/2nNVtl1 #TheOpenOrg
 * Working off the grid and on a mission: red.ht/2nNVtl1 @OpenMatt#TheOpenOrg
 
-
-
-
-
-April 4, 2017
-
-**Evolving toward openness: How to change the way you think and work** (by Philip Foster)
-
-https://opensource.com/open-organization/17/4/evolving-toward-openness
-
-red.ht/2n6VuEh
+April 4, 2017  
+**Evolving toward openness: How to change the way you think and work** (by Philip Foster)  
+https://opensource.com/open-organization/17/4/evolving-toward-openness  
+red.ht/2n6VuEh  
 
 * Today, @maximumchange launches a new monthly column: "An Open Evolution." Check it out: red.ht/2n6VuEh #TheOpenOrg
 * Going open means changing more than your tools. It always requires a shift in mindset. @maximumchange red.ht/2n6VuEh #TheOpenOrg
 * "Hiking can be arduous. A journey toward greater openness is no different." @maximumchange red.ht/2n6VuEh #TheOpenOrg
 * Here's @maximumchange on making "an open evolution": red.ht/2n6VuEh #TheOpenOrg
 
-
-
-
-
 ## March 2017
 
-March 30, 2017
-
-**2 tools for transforming senior management into open leaders** (by DeLisa Alexander)
-
-https://opensource.com/open-organization/17/3/leadership-organization-passion-talent
-
-red.ht/2obR7aI
+March 30, 2017  
+**2 tools for transforming senior management into open leaders** (by DeLisa Alexander)  
+https://opensource.com/open-organization/17/3/leadership-organization-passion-talent  
+red.ht/2obR7aI  
 
 * Open decision-making series continues! @delisaatredhat explains leadership multipliers: red.ht/2obR7aI #TheOpenOrg
 * What's your open leadership multiplier? red.ht/2obR7aI #TheOpenOrg
 * Here are two resources for transforming senior mgmt into open leaders: red.ht/2obR7aI #TheOpenOrg
 * Articulating what open leadership looks like at different stages of development, from @delisaatredhat red.ht/2obR7aI #TheOpenOrg
 
-
-
-
-
-March 28, 2017
-
-**The 4 components of a great decision** (by Ron McFarland)
-
-https://opensource.com/open-organization/17/3/making-better-open-decisions
-
-red.ht/2ou7bRL
+March 28, 2017  
+**The 4 components of a great decision** (by Ron McFarland)  
+https://opensource.com/open-organization/17/3/making-better-open-decisions  
+red.ht/2ou7bRL  
 
 * Our series on open decision-making kicks off today with @RonMcF: red.ht/2ou7bRL #TheOpenOrg
 * From @RonMcF: The four components of a great open decision red.ht/2ou7bRL #TheOpenOrg
 * Quality. Speed. Execution. Effort. Four components of a great open decision, from @RonMcF: red.ht/2ou7bRL #TheOpenOrg
 
-Created by Bryan Behrenshausen / @OpenOrgChat
-
-March 23, 2017
-
-**What does an ad agency's source code look like?** (by Ajinkya Pawar)
-
-https://opensource.com/open-organization/17/3/how-build-open-ad-agency
-
-red.ht/2o855Xy
+March 23, 2017  
+**What does an ad agency's source code look like?** (by Ajinkya Pawar)  
+https://opensource.com/open-organization/17/3/how-build-open-ad-agency  
+red.ht/2o855Xy  
 
 * New today from @thejinxedone: What does an ad agency's source code look like? red.ht/2o855Xy #TheOpenOrg
 * If an ad agency is to go open source, then what's its source code? @thejinxedone red.ht/2o855Xy #TheOpenOrg
 * .@thejinxedone explains exactly how to build an open ad agency. What are you waiting for? red.ht/2o855Xy #TheOpenOrg
 * .@thejinxedone with five benefits to turning your ad agency into #TheOpenOrg: red.ht/2o855Xy
 
-
-
-
-
-March 22, 2017
-
-**Help us write the next IT culture book** (by Bryan Behrenshausen)
-
-https://opensource.com/open-organization/17/3/announcing-it-culture-book
-
-red.ht/2nmnfYB
+March 22, 2017  
+**Help us write the next IT culture book** (by Bryan Behrenshausen)  
+https://opensource.com/open-organization/17/3/announcing-it-culture-book  
+red.ht/2nmnfYB  
 
 * Help us write the next great book on IT culture—in the open: red.ht/2nmnfYB #TheOpenOrg
 * We're writing a book at the intersection of #TheOpenOrg and #IT culture. You can help: red.ht/2nmnfYB
 * The next book in #TheOpenOrg book series is under active development. Pull requests welcome: red.ht/2nmnfYB
 
-
-
-
-
-March 21, 2017
-
-**7 ways to discuss legal matters with an open community** (by Simon Phipps)
-
-https://opensource.com/open-organization/17/3/legal-matters-community
-
-red.ht/2moDkO5
+March 21, 2017  
+**7 ways to discuss legal matters with an open community** (by Simon Phipps)  
+https://opensource.com/open-organization/17/3/legal-matters-community  
+red.ht/2moDkO5  
 
 * New today from @webmink: 7 ways to discuss legal matters with an open community red.ht/2moDkO5 #TheOpenOrg
 * .@webmink explains 7 ways to discuss legal matters with an open community red.ht/2moDkO5 #TheOpenOrg
 * Are your lawyers engaging an open community? Don't let them make these mistakes: red.ht/2moDkO5 #TheOpenOrg
 * 7 ways to succeed when you want to engage an open community about legal matters: red.ht/2moDkO5 #TheOpenOrg
 
-
-
-
-
-March 16, 2017
-
-**A lesson in accountability from my Uber driver** (by Sam Knuth)
-
-https://opensource.com/open-organization/17/3/lesson-accountability-from-uber-driver
-
-red.ht/2mMBDqE
+March 16, 2017  
+**A lesson in accountability from my Uber driver** (by Sam Knuth)  
+https://opensource.com/open-organization/17/3/lesson-accountability-from-uber-driver  
+red.ht/2mMBDqE  
 
 * New today from ambassador @samfw: "A lesson in accountability from my Uber driver" red.ht/2mMBDqE #TheOpenOrg
 * Ambassador @samfw got a 22-minute lesson in #accountability from his Uber driver: red.ht/2mMBDqE #TheOpenOrg
 * Driving accountability in #TheOpenOrg, from @samfw: red.ht/2mMBDqE
 
-
-
-
-
-March 14, 2017
-
-**3 tips for helping creative people work openly** (by Laura Hilliger)
-
-https://opensource.com/open-organization/17/3/open-leader-facilitating-creativity
-
-red.ht/2mVM25h
+March 14, 2017  
+**3 tips for helping creative people work openly** (by Laura Hilliger)  
+https://opensource.com/open-organization/17/3/open-leader-facilitating-creativity  
+red.ht/2mVM25h  
 
 * New today from ambassador @epilepticrabbit: 3 tips for helping creative people work openly red.ht/2mVM25h #TheOpenOrg
 * .@epilepticrabbit has an open leader's guide to facilitating creativity: red.ht/2mVM25h #TheOpenOrg
 * Leading offline groups can be challenging. These three tips make it easier: red.ht/2mVM25h #TheOpenOrg
 
-Created by Bryan Behrenshusen / @OpenOrgBook
-
-March 9, 2017
-
-**Why I launched a consulting agency on open principles** (by Jen Kelchner)
-
-https://opensource.com/open-organization/17/3/openness-coming-home
-
-red.ht/2mp5S8q
+March 9, 2017  
+**Why I launched a consulting agency on open principles** (by Jen Kelchner)  
+https://opensource.com/open-organization/17/3/openness-coming-home  
+red.ht/2mp5S8q  
 
 * New today from ambassador @JenKelchner: Why I launched @LDR21com on open principles red.ht/2mp5S8q #TheOpenOrg
 * #TheOpenOrg isn't just changing the way we do business. It's key to global change, says @JenKelchner red.ht/2mp5S8q
 * Going open was like "coming home," writes ambassador @JenKelchner red.ht/2mp5S8q
 
-
-
-
-
-March 8, 2017
-
-**Join our next Twitter chat on making open decisions** (by Jason Hibbets)
-
-https://opensource.com/open-organization/17/3/openorgchat-inclusive-decisions
-
-red.ht/2mijQY5
+March 8, 2017  
+**Join our next Twitter chat on making open decisions** (by Jason Hibbets)  
+https://opensource.com/open-organization/17/3/openorgchat-inclusive-decisions  
+red.ht/2mijQY5  
 
 * Join the first #OpenOrgChat of 2017! Details here: red.ht/2mijQY5 #TheOpenOrg
 * "Making open decisions": Our next #OpenOrgChat! red.ht/2mijQY5 #TheOpenOrg
 * Let's get ready for #OpenOrgChat on open decision-making! red.ht/2mijQY5 #TheOpenOrg
 
-
-
-
-
-March 7, 2017
-
-**Working for a mission, not a boss** (by Huiren Woo)
-
-https://opensource.com/open-organization/17/3/shankar-crayon-interview
-
-red.ht/2n0Og0R
+March 7, 2017  
+**Working for a mission, not a boss** (by Huiren Woo)  
+https://opensource.com/open-organization/17/3/shankar-crayon-interview  
+red.ht/2n0Og0R  
 
 * New today: @woohuiren interviews @sureshshankar of @CrayonBigData about building open cultures: red.ht/2n0Og0R #TheOpenOrg
 * Working for a mission, not a boss: @woohuiren interviews @sureshshankar red.ht/2n0Og0R #TheOpenOrg
 * Scaling #TheOpenOrg? Remember the "rule of three and ten." red.ht/2n0Og0R @sureshshankar
 * An entrepreneur's lessons for building successful open cultures: red.ht/2n0Og0R #TheOpenOrg
 
-
-
-
-
-March 2, 2017
-
-**Why the future of advertising is open** (by Ajinkya Pawar)
-
-https://opensource.com/open-organization/17/3/why-future-advertising-open
-
-red.ht/2lCYgMD
+March 2, 2017  
+**Why the future of advertising is open** (by Ajinkya Pawar)  
+https://opensource.com/open-organization/17/3/why-future-advertising-open  
+red.ht/2lCYgMD  
 
 * New today from @thejinxedone: Why the future of advertising is open red.ht/2lCYgMD #TheOpenOrg
 * Truly open model for creative work at a global scale can ensure a prosperous future for the ad industry. red.ht/2lCYgMD #TheOpenOrg
 * From @thejinxedone: Why the future of advertising is open red.ht/2lCYgMD #TheOpenOrg
 * "Open" approaches to advertising have fallen short because they misunderstand the concept: red.ht/2lCYgMD #TheOpenOrg
 
-
-
-
-
 ## February 2017
 
-February 28, 2017
-
-**4 stages of open leadership development** (by DeLisa Alexander)
-
-https://opensource.com/open-organization/17/2/4-stages-open-leadership-development
-
-red.ht/2mAejMe
+February 28, 2017  
+**4 stages of open leadership development** (by DeLisa Alexander)  
+https://opensource.com/open-organization/17/2/4-stages-open-leadership-development  
+red.ht/2mAejMe  
 
 * New today from @delisaatredhat: 4 stages of open leadership development red.ht/2mAejMe #TheOpenOrg
 * Leaders work differently in open organizations. So how can you cultivate them? @delisaatredhat red.ht/2mAejMe #TheOpenOrg
 * Open leaders are crucial. How can we accelerate their development? @delisaatredhat red.ht/2mAejMe #TheOpenOrg
 
-
-
-
-
-February 23, 2017
-
-**What to do when people start hacking your culture** (by Simon Phipps)
-
-https://opensource.com/open-organization/17/2/phipps-gaming-the-system
-
-red.ht/2l3goya
+February 23, 2017  
+**What to do when people start hacking your culture** (by Simon Phipps)  
+https://opensource.com/open-organization/17/2/phipps-gaming-the-system  
+red.ht/2l3goya  
 
 * New today from @webmink: "What to do when people start hacking your culture" red.ht/2l3goya #TheOpenOrg
 * When organizational rules exist, people will try to game them. @webmink red.ht/2l3goya #TheOpenOrg
 * Any system of organizational rules creates a gaming space for hacking them. @webmink explains red.ht/2l3goya #TheOpenOrg
 
-
-
-
-
-February 21, 2017
-
-**A new perspective on meritocracy** (by Brook Manville)
-
-https://opensource.com/open-organization/17/2/new-perspective-meritocracy
-
-red.ht/2kH49wd
+February 21, 2017  
+**A new perspective on meritocracy** (by Brook Manville)  
+https://opensource.com/open-organization/17/2/new-perspective-meritocracy  
+red.ht/2kH49wd  
 
 * New today from @brookmanville: "A new perspective on meritocracy" red.ht/2kH49wd #TheOpenOrg
-
 * .@brookmanville reports on early findings from his research into #meritocracy: red.ht/2kH49wd #TheOpenOrg
-
 * A new perspective on #meritocracy: The Iron Rectangle, courtesy of @brookmanville. red.ht/2kH49wd #TheOpenOrg
-
 * Understanding the role merit plays in open organizations requires more research, red.ht/2kH49wd #TheOpenOrg
 
-
-
-
-
-**What we (think we) know about meritocracies** (by Bryan Behrenshausen)
-
-https://opensource.com/open-organization/17/2/what-we-think-we-know-about-meritocracies
-
-red.ht/2lq9LI0
+**What we (think we) know about meritocracies** (by Bryan Behrenshausen)  
+https://opensource.com/open-organization/17/2/what-we-think-we-know-about-meritocracies  
+red.ht/2lq9LI0  
 
 * New today from @semioticrobotic: "What we (think we) know about meritocracies" red.ht/2lq9LI0 #TheOpenOrg
 * Thinking more deliberately about organizational governance can help us make a better case for openness. red.ht/2lq9LI0 #TheOpenOrg
@@ -1150,275 +983,160 @@ red.ht/2lq9LI0
 * We need to better understand how #Meritocracy attaches itself to programs that do all sorts of things in its name. red.ht/2lq9LI0 #TheOpenOrg
 
 
-
-
-
-February 16, 2017
-
-**Want to be a great leader? Assume positive intent** (by Jim Whitehurst)
-
-https://opensource.com/open-organization/17/2/assuming-positive-intent
-
-red.ht/2lmL4hC
+February 16, 2017  
+**Want to be a great leader? Assume positive intent** (by Jim Whitehurst)  
+https://opensource.com/open-organization/17/2/assuming-positive-intent  
+red.ht/2lmL4hC  
 
 * New today from @JWhitehurst: Want to be a great leader? Assume positive intent red.ht/2lmL4hC #TheOpenOrg
 * Open source communities teach us how to expect the best from one another. @JWhitehurst red.ht/2lmL4hC #TheOpenOrg
 * "Assume positive intent." Here's what it means to @JWhitehurst red.ht/2lmL4hC #TheOpenOrg
 * Three tips for fostering a culture of positivity, by @JWhitehurst red.ht/2lmL4hC #TheOpenOrg
 
-
-
-
-
-February 14, 2017
-
-**What happens when we just assume positive intent?** (by Sam Knuth)
-
-https://opensource.com/article/17/2/what-happens-when-we-just-assume-positive-intent
-
-red.ht/2kOlOA8
+February 14, 2017  
+**What happens when we just assume positive intent?** (by Sam Knuth)  
+https://opensource.com/article/17/2/what-happens-when-we-just-assume-positive-intent  
+red.ht/2kOlOA8  
 
 * New today from ambassador @samfw: What happens when we just assume positive intent? red.ht/2kOlOA8 #TheOpenOrg
 * Here's @samfw on #TheOpenOrg resolution: Assume positive intent red.ht/2kOlOA8
-* [.@samfw](mailto:.@samfw) on the curious case of Gargamel's intent: red.ht/2kOlOA8 #TheOpenOrg
+* .@samfw on the curious case of Gargamel's intent: red.ht/2kOlOA8 #TheOpenOrg
 * Here's a New Year's resolution that's perfect for open leaders everywhere: red.ht/2kOlOA8 @samfw#TheOpenOrg
 
-
-
-
-
-February 9, 2017
-
-**The benefits of tracking issues publicly** (by Chad Whitacre)
-
-https://opensource.com/open-organization/17/2/tracking-issues-publicly
-
-red.ht/2lnPrdi
+February 9, 2017  
+**The benefits of tracking issues publicly** (by Chad Whitacre)  
+https://opensource.com/open-organization/17/2/tracking-issues-publicly  
+red.ht/2lnPrdi  
 
 * New today from ambassador @whit537: The benefits of tracking issues publicly red.ht/2lnPrdi #TheOpenOrg
 * From @whit537, 8 best practices for using a public issue tracker: red.ht/2lnPrdi #TheOpenOrg
 * Are you tracking your team's to-do list in public? @whit537 explains the benefits: red.ht/2lnPrdi #TheOpenOrg
 
-
-
-
-
-February 7, 2017
-
-**The Open Organization** (by Marcus Hanwell)
-
-https://blog.kitware.com/the-open-organization/
-
-bit.ly/2kHcfBr
+February 7, 2017  
+**The Open Organization** (by Marcus Hanwell)  
+https://blog.kitware.com/the-open-organization/  
+bit.ly/2kHcfBr  
 
 * .@mhanwell explains how #TheOpenOrg fits into his "evil master plan": bit.ly/2kHcfBr
 * Here's a great analysis of #TheOpenOrg from @opensourceway friend @mhanwell: bit.ly/2kHcfBr
 
-
-
-
-
-**5 elements for getting teams organized** (by Jen Kelchner)
-
-https://opensource.com/open-organization/17/2/5-elements-teams-organized
-
-red.ht/2jXPDL7
+**5 elements for getting teams organized** (by Jen Kelchner)  
+https://opensource.com/open-organization/17/2/5-elements-teams-organized  
+red.ht/2jXPDL7  
 
 * New today, ambassador @JenKelchner explains the intricacies of #TheOpenOrg governance models: red.ht/2jXPDL7
-* [.@JenKelchner](mailto:.@JenKelchner) explains 5 elements you need to understand when organizing open teams red.ht/2jXPDL7 #TheOpenOrg
+* .@JenKelchner explains 5 elements you need to understand when organizing open teams red.ht/2jXPDL7 #TheOpenOrg
 * Yes, #TheOpenOrg involves structure. Be strategic about it, writes ambassador @JenKelchner: red.ht/2jXPDL7
 * "This is not a democracy": red.ht/2jXPDL7. @JenKelchner on #TheOpenOrg governance.
 
-
-
-
-
-February 2, 2017
-
-**Why we need open leaders more than ever** (by Philip Foster)
-
-https://opensource.com/open-organization/17/2/need-open-leaders-more-ever
-
-red.ht/2ktUnMR
+February 2, 2017  
+**Why we need open leaders more than ever** (by Philip Foster)  
+https://opensource.com/open-organization/17/2/need-open-leaders-more-ever  
+red.ht/2ktUnMR  
 
 * New today from @maximumchange: Why we need open leaders more than ever red.ht/2ktUnMR, #leadership in #TheOpenOrg
 * Changing social and cultural conditions are giving rise to the open leader, writes @maximumchange red.ht/2ktUnMR #TheOpenOrg
 * "Those who abuse power don't last, but those who share power and celebrate others do." @maximumchange red.ht/2ktUnMR #TheOpenOrg
 
-
-
-
-
 ## January 2017
 
 January 31, 2017
-
-**Developing open leaders** (by DeLisa Alexander)
-
-https://opensource.com/open-organization/17/1/developing-open-leaders
-
-red.ht/2kbPzsN
+**Developing open leaders** (by DeLisa Alexander)  
+https://opensource.com/open-organization/17/1/developing-open-leaders  
+red.ht/2kbPzsN  
 
 * New today from @delisaatredhat: "Developing open leaders" red.ht/2hVRsHs #TheOpenOrg
 * "Off the shelf" leadership training didn't work in this #TheOpenOrg, so team made its own red.ht/2hVRsHs #TheOpenOrg
 * Developing a custom leadership training program for open leaders, from @delisaatredhat red.ht/2hVRsHs #TheOpenOrg
 
-
-
-
-
-January 27, 2017
-
-**How agencies can take a page out of industry's open playbooks** (by David Egts)
-
-https://fcw.com/articles/2017/01/27/comment-egts-open.aspx
-
-bit.ly/2kcaApV
+January 27, 2017  
+**How agencies can take a page out of industry's open playbooks** (by David Egts)  
+https://fcw.com/articles/2017/01/27/comment-egts-open.aspx  
+bit.ly/2kcaApV  
 
 * Governments looking to innovate should consider people + process + technology. bit.ly/2kcaApV @davidegts#TheOpenOrg
 * .@davidegts has advice for governments looking to become #TheOpenOrg bit.ly/2kcaApV
 
-
-
-
-
-January 26, 2017
-
-**A 5-step plan to encourage your team to make changes on your project** (by Ron McFarland)
-
-https://opensource.com/open-organization/17/1/escape-the-cave
-
-red.ht/2jUWqXF
+January 26, 2017  
+**A 5-step plan to encourage your team to make changes on your project** (by Ron McFarland)  
+https://opensource.com/open-organization/17/1/escape-the-cave  
+red.ht/2jUWqXF  
 
 * New from #TheOpenOrg ambassador @RonMcF: "A 5-step plan to encourage your team to make changes on your project" red.ht/2jUWqXF
 * From #TheOpenOrg ambassador @RonMcF, a five-step guide to prompting change from your teammates: red.ht/2jUWqXF
 * How can you escape the CAVE? Ambassador @RonMcF has a plan: red.ht/2jUWqXF #TheOpenOrg
 * Citizens Against Virtually Anything (and how to avoid them), from @RonMcF: red.ht/2jUWqXF #TheOpenOrg
 
-
-
-
-
-January 24, 2017
-
-**What your code repository says about you** (by Lauri Apple)
-
-https://opensource.com/open-organization/17/1/repo-tells-a-story
-
-red.ht/2knPgtQ
+January 24, 2017  
+**What your code repository says about you** (by Lauri Apple)  
+https://opensource.com/open-organization/17/1/repo-tells-a-story  
+red.ht/2knPgtQ  
 
 * New today from @LauritaApplez of @ZalandoTech: What your code repository says about you red.ht/2knPgtQ #TheOpenOrg
 * What stories do you want you repositories to tell? From @LauritaApplez of @ZalandoTech: red.ht/2knPgtQ #TheOpenOrg
 * Your open source project tells a story—whether you know it or not: red.ht/2knPgtQ #TheOpenOrg
 * Apply basic storytelling techniques to create a more compelling README: red.ht/2knPgtQ #TheOpenOrg
 
-Created by Bryan Behrenshausen /@OpenOrgBook
-
-January 19, 2017
-
-**Be a force for good in your community** (by Rebecca Fernandez)
-
-https://opensource.com/open-organization/17/1/force-for-good-community
-
-red.ht/2jc079Z
+January 19, 2017  
+**Be a force for good in your community** (by Rebecca Fernandez)  
+https://opensource.com/open-organization/17/1/force-for-good-community  
+red.ht/2jc079Z  
 
 * New today from ambassador @ruhbehka: Be a force for good in your community red.ht/2jc079Z #TheOpenOrg
 * Passionate debate is the norm in #TheOpenOrg. What to do when things threaten to go sour? @ruhbehka explains red.ht/2jc079Z
 * In #TheOpenOrg, don't call people out. Call them up. @ruhbehka explains the difference red.ht/2jc079Z
 * "Why would a reasonable, rational, and decent person do something like this?" @ruhbehka red.ht/2jc079Z #TheOpenOrg
 
-
-
-
-
-January 17, 2017
-
-**How to employ a more transparent, collaborative company culture** (by Jim Whitehurst)
-
-http://www.telegraph.co.uk/connect/better-business/how-to-employ-transparent-collaborative-company-culture/
-
-bit.ly/2jw15RW
+January 17, 2017  
+**How to employ a more transparent, collaborative company culture** (by Jim Whitehurst)  
+http://www.telegraph.co.uk/connect/better-business/how-to-employ-transparent-collaborative-company-culture/  
+bit.ly/2jw15RW  
 
 * "How to employ a more transparent, collaborative company culture," by @JWhitehurst bit.ly/2jw15RW #TheOpenOrg
 * "Passion is contagious. If you display it, so will your employees." @JWhitehurst bit.ly/2jw15RW #TheOpenOrg
 * "If people can share in your beliefs, they will walk through walls with you" @JWhitehurst bit.ly/2jw15RW #TheOpenOrg
 
-
-
-
-
-January 17, 2017
-
-**5 resolutions to become a more open leader in 2017** (by Jim Whitehurst)
-
-https://opensource.com/open-organization/17/1/open-org-resolutions-2017
-
-red.ht/2iwYsQ3
+January 17, 2017  
+**5 resolutions to become a more open leader in 2017** (by Jim Whitehurst)  
+https://opensource.com/open-organization/17/1/open-org-resolutions-2017  
+red.ht/2iwYsQ3  
 
 * New today from @JWhitehurst: "5 resolutions to become a more open leader in 2017" red.ht/2iwYsQ3 #TheOpenOrg
 * From @JWhitehurst, five #TheOpenOrg resolutions for a more open 2017: red.ht/2iwYsQ3
 * Have you made your 2017 #TheOpenOrg resolution? @JWhithurst has five suggestions: red.ht/2iwYsQ3
 * Five ways to be a more open leader this year: red.ht/2iwYsQ3
 
-
-
-
-
-January 12, 2017
-
-**Proof that openness scales** (by Jen Kelchner)
-
-https://opensource.com/open-organization/17/1/proof-openness-scales
-
-red.ht/2jzhYaU
+January 12, 2017  
+**Proof that openness scales** (by Jen Kelchner)  
+https://opensource.com/open-organization/17/1/proof-openness-scales  
+red.ht/2jzhYaU  
 
 * New today from columnist @JenKelchner:"Proof that openness scales," with @Slalom red.ht/2jzhYaU #TheOpenOrg
 * Columnist @JenKelchner explores @Slalom strategies for scaling an open culture red.ht/2jzhYaU #TheOpenOrg
 * What is "scalability"? How did @Slalom scale an open culture? @JenKelchner explains: red.ht/2jzhYaU #TheOpenOrg
 
-
-
-
-
-January 10, 2017
-
-**What engineers and marketers can learn from each other** (by Jackie Yeaney)
-
-https://opensource.com/open-organization/17/1/engineers-marketers-can-learn
-
-red.ht/2i8WQMh
+January 10, 2017  
+**What engineers and marketers can learn from each other** (by Jackie Yeaney)  
+https://opensource.com/open-organization/17/1/engineers-marketers-can-learn  
+red.ht/2i8WQMh  
 
 * New today from @jackieyeaney: "What engineers and marketers can learn from each other" red.ht/2i8WQMh #TheOpenOrg
 * #TheOpenOrg brings engineers and marketers together with a common purpose, writes @jackieyeaney red.ht/2i8WQMh
 * Marketers and engineers can learn a lot from one another, says @jackieyeaney red.ht/2i8WQMh #TheOpenOrg
 
-
-
-
-
-January 5, 2017
-
-**What storytellers can teach open leaders** (by Laura Hilliger)
-
-https://opensource.com/open-organization/17/1/what-storytellers-can-teach-open-leaders
-
-red.ht/2hVN9PF
+January 5, 2017  
+**What storytellers can teach open leaders** (by Laura Hilliger)  
+https://opensource.com/open-organization/17/1/what-storytellers-can-teach-open-leaders  
+red.ht/2hVN9PF  
 
 * New today from ambassador @epilepticrabbit: "What storytellers can teach open leaders" red.ht/2hVN9PF #TheOpenOrg
 * Learning from great storytellers makes us better open leaders, says @epilepticrabbitred.ht/2hVN9PF #TheOpenOrg
 * What can open leaders learn from great storytellers? @epilepticrabbit lists three lessons, for starters: red.ht/2hVN9PF #TheOpenOrg
 
-
-
-
-
-January 3, 2017
-
-**Avoid echo chambers and make open decisions** (by Sam Knuth)
-
-https://opensource.com/open-organization/17/1/avoid-echo-chambers-make-open-decisions
-
-red.ht/2hLsp9O
+January 3, 2017  
+**Avoid echo chambers and make open decisions** (by Sam Knuth)  
+https://opensource.com/open-organization/17/1/avoid-echo-chambers-make-open-decisions  
+red.ht/2hLsp9O  
 
 * New today from @samfw: Avoid echo chambers and make open decisions red.ht/2hLsp9O #TheOpenOrg
 * TFW: You fail the open decision litmus test. @samfw knows it. red.ht/2hLsp9O #TheOpenOrg
