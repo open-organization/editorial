@@ -20,6 +20,8 @@ September 04, 2023
 **Open organizations and the sharing economy** (by Ron McFarland)  
 https://coachingbuttons.com/2023/09/04/sharingeconomy  
 
+[Opensource.com, the Open Organization community's primary publication platform, [ceased regular operations](https://opensource.com/article/23/6/new-developments-opensourcecom) in April 2023.]
+
 ## April 2023
 
 April 21, 2023  
