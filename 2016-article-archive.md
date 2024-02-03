@@ -1374,4 +1374,3 @@ http://red.ht/1OwYjV3
 * New today: The evolution of the open organization (by @brookmanville) http://red.ht/1OwYjV3#TheOpenOrg
 * What's really "new" about #TheOpenOrg? @brookmanville explains (http://red.ht/1OwYjV3)
 * Read the foreword to #TheOpenOrg field guide! (http://red.ht/1OwYjV3) @brookmanville
-
