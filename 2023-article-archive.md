@@ -12,6 +12,10 @@ https://coachingbuttons.com/2023/12/18/noise
 
 ## September 2023
 
+September 18, 2023  
+**The future of the sharing business model** (by Ron McFarland)  
+https://coachingbuttons.com/2023/09/18/sharingfuture
+
 September 11, 2023  
 **Real world examples of a sharing economy** (by Ron McFarland)  
 https://coachingbuttons.com/2023/09/11/sharingexamples  
