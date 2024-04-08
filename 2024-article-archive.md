@@ -1,5 +1,11 @@
 # Open Organization Project 2024 Article Archive
 
+## April 2024
+
+April 08, 2024  
+**To be an open leader, listen to your heart** (by Jos Groen)  
+https://coachingbuttons.com/2024/04/08/openleader  
+
 ## March 2024
 
 March 25, 2024  
