@@ -2,6 +2,10 @@
 
 ## March 2024
 
+March 25, 2024  
+**The corporation board of stakeholders** (by Ron McFarland)  
+https://coachingbuttons.com/2024/03/25/stakeholders
+
 March 18, 2024  
 **A movie to scale corporate social responsibility** (by Ron McFarland)  
 https://coachingbuttons.com/2024/03/11/envisionmovie
